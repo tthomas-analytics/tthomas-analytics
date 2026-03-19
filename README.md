@@ -32,7 +32,7 @@ Built an end-to-end sales analytics dashboard to track KPIs and sales performanc
 ---
 
 ## 🤝 Let’s Connect
-- LinkedIn:  https://www.http://linkedin.com/in/teslim-thomas23<img width="468" height="10" alt="image" src="https://github.com/user-attachments/assets/f9decd8d-de5b-4295-8c9e-587a70076882" />
+- LinkedIn:  https://www.http://linkedin.com/in/teslim-thomas23
 
 
 
