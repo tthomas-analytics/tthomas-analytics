@@ -30,8 +30,7 @@ transactions across 284,807 real credit card transactions.
 - Compared 3 ML models — XGBoost selected for highest Recall (89%)
 - Built interactive Power BI dashboard for stakeholder reporting
 - Handled severe class imbalance (0.17% fraud) using SMOTE
-
-Tools: Python, XGBoost, scikit-learn, SMOTE, Power BI
+**Tools:** Python, XGBoost, scikit-learn, SMOTE, Power BI
 🔗 [View Project](https://github.com/tthomas-analytics/credit-card-fraud-detection)
 ---
 
